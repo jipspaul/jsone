@@ -1,5 +1,15 @@
-userName: "Jips"
+userName: "JP"
+userPictureUrl: "https://placehold.co/600x400.png"
 events:
+  - eventId: 156079296
+    eventName: "Welcome to FOSDEM 2026-"
+    status: "planned"
+    startTime: "2026-01-31T09:30:00.000"
+    endTime: "2026-01-31T10:00:00.000"
+    room: "Janson"
+    building: "Janson"
+    track: "Main Track"
+    priority: 3
   - eventId: 572984825
     eventName: "FOSS in times of war, scarcity and (adversarial) AI-"
     status: "planned"
@@ -9,39 +19,957 @@ events:
     building: "Janson"
     track: "Main Track"
     priority: 3
-  - eventId: 77574753
-    eventName: "VM Integration in systemd-"
-    status: "wishlist"
-    startTime: "2026-01-31T10:30:00.000"
-    endTime: "2026-01-31T11:00:00.000"
+  - eventId: 484607751
+    eventName: "Beyond JavaScript: Wasm GC present and future-"
+    status: "planned"
+    startTime: "2026-01-31T17:00:00.000"
+    endTime: "2026-01-31T17:30:00.000"
+    room: "H.1309 (Van Rijn)"
+    building: "H"
+    track: "Browser and web platform"
+    priority: 3
+  - eventId: 782714453
+    eventName: "NymVPN: The First Real-World Decentralized Noise-Generating Mixnet for Anonymity-"
+    status: "planned"
+    startTime: "2026-02-01T10:50:00.000"
+    endTime: "2026-02-01T11:20:00.000"
+    room: "UD2.218A"
+    building: "UD2"
+    track: "Decentralized Internet and Privacy"
+    priority: 3
+  - eventId: 500230534
+    eventName: "\"Turning a cheap commercial vacuum cleaner into a useful Open Source mapping tool\"-"
+    status: "planned"
+    startTime: "2026-01-31T10:35:00.000"
+    endTime: "2026-01-31T11:05:00.000"
+    room: "UB2.147"
+    building: "UB2"
+    track: "Robotics and Simulation"
+    priority: 3
+  - eventId: 781625465
+    eventName: "State of the MapLibre Tile Format-"
+    status: "planned"
+    startTime: "2026-01-31T11:15:00.000"
+    endTime: "2026-01-31T11:45:00.000"
+    room: "H.1301 (Cornil)"
+    building: "H"
+    track: "Geospatial"
+    priority: 3
+  - eventId: 738564674
+    eventName: "Ternary computing BOF-"
+    status: "planned"
+    startTime: "2026-01-31T12:00:00.000"
+    endTime: "2026-01-31T12:30:00.000"
+    room: "H.3242"
+    building: "H"
+    track: "BOF/Unconference"
+    priority: 3
+  - eventId: 1002716478
+    eventName: "Smart gadget making with MicroBlocks-"
+    status: "planned"
+    startTime: "2026-01-31T12:15:00.000"
+    endTime: "2026-01-31T12:45:00.000"
+    room: "UD6.203"
+    building: "UD6"
+    track: "Junior"
+    priority: 3
+  - eventId: 695644044
+    eventName: "An Efficient Git Workflow For High-Stakes Projects-"
+    status: "planned"
+    startTime: "2026-01-31T13:00:00.000"
+    endTime: "2026-01-31T13:30:00.000"
+    room: "Janson"
+    building: "Janson"
+    track: "Main Track"
+    priority: 3
+  - eventId: 220284163
+    eventName: "How I Turned a Raspberry Pi into an Open-Source Edge Cloud with OpenNebula-"
+    status: "planned"
+    startTime: "2026-01-31T13:00:00.000"
+    endTime: "2026-01-31T13:30:00.000"
     room: "H.2213"
     building: "H"
     track: "Virtualization and Cloud Infrastructure"
     priority: 3
-  - eventId: 344920949
-    eventName: "DuckDB in the Cloud: A Simple, Powerful SQL Engine for Your Lakehouse-"
-    status: "wishlist"
+  - eventId: 650253879
+    eventName: "A new stack for OpenStreetMap vector tiles-"
+    status: "planned"
     startTime: "2026-01-31T13:15:00.000"
     endTime: "2026-01-31T13:45:00.000"
+    room: "H.1301 (Cornil)"
+    building: "H"
+    track: "Geospatial"
+    priority: 3
+  - eventId: 1048214982
+    eventName: "Implementing S3-fronted cold storage at CERN-"
+    status: "planned"
+    startTime: "2026-01-31T15:10:00.000"
+    endTime: "2026-01-31T15:40:00.000"
+    room: "UB4.136"
+    building: "UB4"
+    track: "Software Defined Storage"
+    priority: 3
+  - eventId: 102475284
+    eventName: "Stalwart: Can Open Source do Gmail-scale Email?-"
+    status: "planned"
+    startTime: "2026-01-31T16:00:00.000"
+    endTime: "2026-01-31T16:30:00.000"
+    room: "K.4.201"
+    building: "K"
+    track: "Modern Email"
+    priority: 3
+  - eventId: 140868397
+    eventName: "Inverted database indexes: The why, the what, and the how.-"
+    status: "planned"
+    startTime: "2026-01-31T16:35:00.000"
+    endTime: "2026-01-31T17:05:00.000"
     room: "UB2.252A (Lameere)"
     building: "UB2"
     track: "Databases"
-    priority: 3
-  - eventId: 593298359
-    eventName: "Fedi legacy-"
-    status: "wishlist"
-    startTime: "2026-01-31T18:10:00.000"
-    endTime: "2026-01-31T18:40:00.000"
+    priority: 5
+  - eventId: 380311435
+    eventName: "E-Paper | color — fast — open source-"
+    status: "planned"
+    startTime: "2026-01-31T17:00:00.000"
+    endTime: "2026-01-31T17:30:00.000"
+    room: "UA4.228"
+    building: "UA4"
+    track: "BOF/Unconference"
+    priority: 1
+  - eventId: 654605307
+    eventName: "Bonfire: Building Modular, Consentful, and Federated Social Networks-"
+    status: "planned"
+    startTime: "2026-01-31T17:20:00.000"
+    endTime: "2026-01-31T17:50:00.000"
     room: "H.2215 (Ferrer)"
     building: "H"
     track: "Social Web"
     priority: 3
-  - eventId: 816809563
-    eventName: "IzzyOnDroid Download Statistics-"
+  - eventId: 279009817
+    eventName: "EasyNav: An open-source framework for navigating everywhere-"
+    status: "planned"
+    startTime: "2026-01-31T17:30:00.000"
+    endTime: "2026-01-31T18:00:00.000"
+    room: "UB2.147"
+    building: "UB2"
+    track: "Robotics and Simulation"
+    priority: 3
+  - eventId: 260109831
+    eventName: "Building an Open Source Private 5G Network: A Practical Blueprint-"
+    status: "planned"
+    startTime: "2026-01-31T17:50:00.000"
+    endTime: "2026-01-31T18:20:00.000"
+    room: "H.1302 (Depage)"
+    building: "H"
+    track: "Network"
+    priority: 3
+  - eventId: 843754693
+    eventName: "Dedup for S3: Smarter Storage, Zero Duplicates-"
+    status: "planned"
+    startTime: "2026-01-31T18:05:00.000"
+    endTime: "2026-01-31T18:35:00.000"
+    room: "UB4.136"
+    building: "UB4"
+    track: "Software Defined Storage"
+    priority: 3
+  - eventId: 1033795575
+    eventName: "Energy-Aware E-Paper Driving: Open Waveforms for Sustainable, Low-Power Displays-"
+    status: "planned"
+    startTime: "2026-01-31T18:30:00.000"
+    endTime: "2026-01-31T19:00:00.000"
+    room: "AW1.126"
+    building: "AW1"
+    track: "Energy"
+    priority: 3
+  - eventId: 825022923
+    eventName: "Building a TODO app on top of Forgejo-"
+    status: "planned"
+    startTime: "2026-01-31T18:30:00.000"
+    endTime: "2026-01-31T19:00:00.000"
+    room: "K.3.401"
+    building: "K"
+    track: "Collaboration and content management"
+    priority: 3
+  - eventId: 103815573
+    eventName: "HackerTrain: the first real (and distributed) train trip from N places on M routes to Brussels-"
+    status: "planned"
+    startTime: "2026-01-31T18:40:00.000"
+    endTime: "2026-01-31T19:10:00.000"
+    room: "K.3.601"
+    building: "K"
+    track: "Railways and Open Transport"
+    priority: 3
+  - eventId: 393871104
+    eventName: "Free as in Burned Out: Who Really Pays for Open Source?-"
+    status: "planned"
+    startTime: "2026-02-01T09:00:00.000"
+    endTime: "2026-02-01T09:30:00.000"
+    room: "Janson"
+    building: "Janson"
+    track: "Main Track"
+    priority: 3
+  - eventId: 382993364
+    eventName: "Re-decentralizing the web platform with Wasm GC-"
+    status: "planned"
+    startTime: "2026-02-01T09:30:00.000"
+    endTime: "2026-02-01T10:00:00.000"
+    room: "UD2.218A"
+    building: "UD2"
+    track: "Decentralized Internet and Privacy"
+    priority: 3
+  - eventId: 571041962
+    eventName: "Automate all the things! Using Puma to automate UI actions in Android applications-"
+    status: "planned"
+    startTime: "2026-02-01T09:50:00.000"
+    endTime: "2026-02-01T10:20:00.000"
+    room: "UB4.132"
+    building: "UB4"
+    track: "Open Source Digital Forensics"
+    priority: 3
+  - eventId: 923474320
+    eventName: "Reclaiming the Web: Surfing the Internet on Torrents-"
+    status: "planned"
+    startTime: "2026-02-01T09:55:00.000"
+    endTime: "2026-02-01T10:25:00.000"
+    room: "UD2.218A"
+    building: "UD2"
+    track: "Decentralized Internet and Privacy"
+    priority: 3
+  - eventId: 382196672
+    eventName: "Keeping applications secure by evolving OAuth 2.0 and OpenID Connect-"
+    status: "planned"
+    startTime: "2026-02-01T10:05:00.000"
+    endTime: "2026-02-01T10:35:00.000"
+    room: "H.2214"
+    building: "H"
+    track: "Identity and Access Management"
+    priority: 3
+  - eventId: 1496805
+    eventName: "Open Food Facts : Getting together to reduce health and environmental impacts of consumption-"
+    status: "planned"
+    startTime: "2026-02-01T11:40:00.000"
+    endTime: "2026-02-01T12:10:00.000"
+    room: "H.2215 (Ferrer)"
+    building: "H"
+    track: "/dev/random"
+    priority: 3
+  - eventId: 357985275
+    eventName: "Engineering XMPP Federation: Building Messaging, Voice & Social Features Across Independent Projects-"
+    status: "planned"
+    startTime: "2026-02-01T13:15:00.000"
+    endTime: "2026-02-01T13:45:00.000"
+    room: "AW1.126"
+    building: "AW1"
+    track: "Decentralised Communication"
+    priority: 3
+  - eventId: 225344491
+    eventName: "Movim: Building a Decentralized Social Network on XMPP-"
+    status: "planned"
+    startTime: "2026-02-01T13:45:00.000"
+    endTime: "2026-02-01T14:15:00.000"
+    room: "AW1.126"
+    building: "AW1"
+    track: "Decentralised Communication"
+    priority: 3
+  - eventId: 265188174
+    eventName: "Teleportal: A real-time collaborative editing framework-"
+    status: "planned"
+    startTime: "2026-02-01T13:55:00.000"
+    endTime: "2026-02-01T14:25:00.000"
+    room: "K.3.201"
+    building: "K"
+    track: "Local-First, sync engines, CRDTs"
+    priority: 3
+  - eventId: 234094150
+    eventName: "Rust in Mercurial: The wider benefits-"
+    status: "planned"
+    startTime: "2026-02-01T14:00:00.000"
+    endTime: "2026-02-01T14:30:00.000"
+    room: "UB2.252A (Lameere)"
+    building: "UB2"
+    track: "Rust"
+    priority: 3
+  - eventId: 448392648
+    eventName: "Local-First Peer-to-Peer apps with js-libp2p, IPFS and OrbitDB-"
+    status: "planned"
+    startTime: "2026-02-01T14:40:00.000"
+    endTime: "2026-02-01T15:10:00.000"
+    room: "K.3.201"
+    building: "K"
+    track: "Local-First, sync engines, CRDTs"
+    priority: 3
+  - eventId: 837772863
+    eventName: "You Don’t Need to Be a Designer to Design: Fixing UX in Open Source-"
+    status: "planned"
+    startTime: "2026-02-01T15:30:00.000"
+    endTime: "2026-02-01T16:00:00.000"
+    room: "UB4.132"
+    building: "UB4"
+    track: "Open Source Design"
+    priority: 3
+  - eventId: 582741226
+    eventName: "MicroPythonOS: the best of Android, now on Microcontrollers. AppStore, OTA Updates, Touch Screen, Camera and much more!-"
+    status: "planned"
+    startTime: "2026-02-01T16:00:00.000"
+    endTime: "2026-02-01T16:30:00.000"
+    room: "UD2.120 (Chavanne)"
+    building: "UD2"
+    track: "Embedded, Mobile and Automotive"
+    priority: 3
+  - eventId: 13117736
+    eventName: "Beyond Git: Collaborative Version Control for Godot-"
     status: "wishlist"
-    startTime: "2026-01-31T14:00:00.000"
-    endTime: "2026-01-31T14:30:00.000"
+    startTime: "2026-02-01T09:15:00.000"
+    endTime: "2026-02-01T09:45:00.000"
+    room: "H.1302 (Depage)"
+    building: "H"
+    track: "Gaming and VR devroom"
+    priority: 3
+  - eventId: 32519389
+    eventName: "Microkernels: The last 15 years in retrospective-"
+    status: "wishlist"
+    startTime: "2026-02-01T16:30:00.000"
+    endTime: "2026-02-01T17:00:00.000"
+    room: "K.4.201"
+    building: "K"
+    track: "Microkernel and Component-Based OS"
+    priority: 3
+  - eventId: 32663805
+    eventName: "From Drones to  Data:  Building an Open Mapping Ecosystem for All-"
+    status: "wishlist"
+    startTime: "2026-02-01T15:00:00.000"
+    endTime: "2026-02-01T15:30:00.000"
+    room: "K.1.105 (La Fontaine)"
+    building: "K"
+    track: "Main Track (K-building)"
+    priority: 3
+  - eventId: 56521171
+    eventName: "Rust Meets the Grid: Building OpenLEADR-rs for Real-World Demand Response-"
+    status: "wishlist"
+    startTime: "2026-01-31T13:40:00.000"
+    endTime: "2026-01-31T14:10:00.000"
+    room: "AW1.126"
+    building: "AW1"
+    track: "Energy"
+    priority: 3
+  - eventId: 61738840
+    eventName: "Version control is changing! BOF-"
+    status: "wishlist"
+    startTime: "2026-01-31T15:00:00.000"
+    endTime: "2026-01-31T15:30:00.000"
+    room: "UA4.228"
+    building: "UA4"
+    track: "BOF/Unconference"
+    priority: 3
+  - eventId: 69264822
+    eventName: "Async Rust in Godot 4: Leveraging the engine as a runtime-"
+    status: "wishlist"
+    startTime: "2026-02-01T10:30:00.000"
+    endTime: "2026-02-01T11:00:00.000"
+    room: "UB2.252A (Lameere)"
+    building: "UB2"
+    track: "Rust"
+    priority: 3
+  - eventId: 87426493
+    eventName: "Optics (Photonics) tooling BoF-"
+    status: "wishlist"
+    startTime: "2026-02-01T11:00:00.000"
+    endTime: "2026-02-01T11:30:00.000"
+    room: "H.3242"
+    building: "H"
+    track: "BOF/Unconference"
+    priority: 3
+  - eventId: 93280712
+    eventName: "OCapN: The secure, decentralized protocol of the future-"
+    status: "wishlist"
+    startTime: "2026-02-01T13:45:00.000"
+    endTime: "2026-02-01T14:15:00.000"
+    room: "UD2.218A"
+    building: "UD2"
+    track: "Decentralized Internet and Privacy"
+    priority: 3
+  - eventId: 96904942
+    eventName: "Cracking Down the Code: What Really Happens When You Run a SELECT?-"
+    status: "wishlist"
+    startTime: "2026-01-31T12:20:00.000"
+    endTime: "2026-01-31T12:50:00.000"
+    room: "UB2.252A (Lameere)"
+    building: "UB2"
+    track: "Databases"
+    priority: 3
+  - eventId: 97924966
+    eventName: "Clickhouse’s C++ and Rust journey-"
+    status: "wishlist"
+    startTime: "2026-02-01T12:00:00.000"
+    endTime: "2026-02-01T12:30:00.000"
+    room: "UB2.252A (Lameere)"
+    building: "UB2"
+    track: "Rust"
+    priority: 3
+  - eventId: 117956675
+    eventName: "Update on FFmpeg, VLC and related libraries-"
+    status: "wishlist"
+    startTime: "2026-01-31T12:20:00.000"
+    endTime: "2026-01-31T12:50:00.000"
+    room: "K.4.601"
+    building: "K"
+    track: "Open Media devroom"
+    priority: 3
+  - eventId: 118042433
+    eventName: "AI alignment for Open Source-"
+    status: "wishlist"
+    startTime: "2026-02-01T14:00:00.000"
+    endTime: "2026-02-01T14:30:00.000"
+    room: "H.3242"
+    building: "H"
+    track: "BOF/Unconference"
+    priority: 3
+  - eventId: 144465032
+    eventName: "the Mobility Database-"
+    status: "wishlist"
+    startTime: "2026-01-31T15:30:00.000"
+    endTime: "2026-01-31T16:00:00.000"
+    room: "K.3.601"
+    building: "K"
+    track: "Railways and Open Transport"
+    priority: 3
+  - eventId: 161645829
+    eventName: "Open Source RISC-V AOSP Porting: Progress, Challenges, and Upstream Work-"
+    status: "wishlist"
+    startTime: "2026-01-31T11:00:00.000"
+    endTime: "2026-01-31T11:30:00.000"
     room: "UB4.132"
     building: "UB4"
     track: "FOSS on Mobile"
+    priority: 3
+  - eventId: 168378852
+    eventName: "JUBE: An Environment for systematic benchmarking and scientific workflows-"
+    status: "wishlist"
+    startTime: "2026-02-01T10:00:00.000"
+    endTime: "2026-02-01T10:30:00.000"
+    room: "H.1308 (Rolin)"
+    building: "H"
+    track: "HPC, Big Data & Data Science"
+    priority: 3
+  - eventId: 176850595
+    eventName: "OpenEmbedded / Yocto BoF-"
+    status: "wishlist"
+    startTime: "2026-01-31T11:00:00.000"
+    endTime: "2026-01-31T11:30:00.000"
+    room: "K.4.401"
+    building: "K"
+    track: "BOF/Unconference"
+    priority: 3
+  - eventId: 186512541
+    eventName: "SQLRooms: Local-First Analytics with DuckDB, Collaborative Canvas, and Loro CRDT Sync-"
+    status: "wishlist"
+    startTime: "2026-02-01T15:00:00.000"
+    endTime: "2026-02-01T15:30:00.000"
+    room: "K.3.201"
+    building: "K"
+    track: "Local-First, sync engines, CRDTs"
+    priority: 3
+  - eventId: 204130708
+    eventName: "Peergos: Capability-Based Access Control for an Encrypted Web-"
+    status: "wishlist"
+    startTime: "2026-02-01T13:15:00.000"
+    endTime: "2026-02-01T13:45:00.000"
+    room: "UD2.218A"
+    building: "UD2"
+    track: "Decentralized Internet and Privacy"
+    priority: 3
+  - eventId: 208442134
+    eventName: "One Flutter Embedder to Rule Them All-"
+    status: "wishlist"
+    startTime: "2026-02-01T16:30:00.000"
+    endTime: "2026-02-01T17:00:00.000"
+    room: "UD2.120 (Chavanne)"
+    building: "UD2"
+    track: "Embedded, Mobile and Automotive"
+    priority: 3
+  - eventId: 210749187
+    eventName: "Overview of a DWARF-6 change: Locations on the stack-"
+    status: "wishlist"
+    startTime: "2026-01-31T11:05:00.000"
+    endTime: "2026-01-31T11:35:00.000"
+    room: "UD6.215"
+    building: "UD6"
+    track: "GCC (GNU Toolchain)"
+    priority: 3
+  - eventId: 247328744
+    eventName: "Open Source video mixing and syncing with real-time control-"
+    status: "wishlist"
+    startTime: "2026-01-31T14:10:00.000"
+    endTime: "2026-01-31T14:40:00.000"
+    room: "K.4.601"
+    building: "K"
+    track: "Open Media devroom"
+    priority: 3
+  - eventId: 257185295
+    eventName: "Pull requests maintainers will love to review-"
+    status: "wishlist"
+    startTime: "2026-01-31T14:00:00.000"
+    endTime: "2026-01-31T14:30:00.000"
+    room: "Janson"
+    building: "Janson"
+    track: "Main Track"
+    priority: 3
+  - eventId: 278119337
+    eventName: "Gosling: Build Anonymous, Secure, and Metadata- Resistant Peer-to-Peer Applications using Tor Onion Services-"
+    status: "wishlist"
+    startTime: "2026-02-01T12:15:00.000"
+    endTime: "2026-02-01T12:45:00.000"
+    room: "UD2.218A"
+    building: "UD2"
+    track: "Decentralized Internet and Privacy"
+    priority: 3
+  - eventId: 278179815
+    eventName: "Probabilistic Turn-By-Turn Directions for Public Transport-"
+    status: "wishlist"
+    startTime: "2026-01-31T16:55:00.000"
+    endTime: "2026-01-31T17:25:00.000"
+    room: "K.3.601"
+    building: "K"
+    track: "Railways and Open Transport"
+    priority: 3
+  - eventId: 308146086
+    eventName: "Lessons from teaching 100+ beginners to use the OpenStreetMap-"
+    status: "wishlist"
+    startTime: "2026-01-31T14:05:00.000"
+    endTime: "2026-01-31T14:35:00.000"
+    room: "H.1301 (Cornil)"
+    building: "H"
+    track: "Geospatial"
+    priority: 3
+  - eventId: 311818771
+    eventName: "Taming Git complexity with Rust and Gitoxide-"
+    status: "wishlist"
+    startTime: "2026-02-01T14:30:00.000"
+    endTime: "2026-02-01T15:00:00.000"
+    room: "UB2.252A (Lameere)"
+    building: "UB2"
+    track: "Rust"
+    priority: 3
+  - eventId: 325237832
+    eventName: "Concurrency + Testing = synctest-"
+    status: "wishlist"
+    startTime: "2026-02-01T11:30:00.000"
+    endTime: "2026-02-01T12:00:00.000"
+    room: "UB5.132"
+    building: "UB5"
+    track: "Go"
+    priority: 3
+  - eventId: 349996559
+    eventName: "NewPipe - Porting an Android app to Sailfish OS-"
+    status: "wishlist"
+    startTime: "2026-01-31T13:30:00.000"
+    endTime: "2026-01-31T14:00:00.000"
+    room: "UB4.132"
+    building: "UB4"
+    track: "FOSS on Mobile"
+    priority: 3
+  - eventId: 374626925
+    eventName: "Bringing WebAssembly to constrained devices with Rust: Runtimes, tooling, and real-world tradeoffs-"
+    status: "wishlist"
+    startTime: "2026-02-01T09:00:00.000"
+    endTime: "2026-02-01T09:30:00.000"
+    room: "UB2.252A (Lameere)"
+    building: "UB2"
+    track: "Rust"
+    priority: 3
+  - eventId: 397193985
+    eventName: "Debugging Exclusion: Building Disability-Inclusive Open Source Projects-"
+    status: "wishlist"
+    startTime: "2026-02-01T14:00:00.000"
+    endTime: "2026-02-01T14:30:00.000"
+    room: "UB4.132"
+    building: "UB4"
+    track: "Open Source Design"
+    priority: 3
+  - eventId: 410526256
+    eventName: "Deep Learning Demystified - Having Fun with Neural Networks in Snap!-"
+    status: "wishlist"
+    startTime: "2026-02-01T15:15:00.000"
+    endTime: "2026-02-01T15:45:00.000"
+    room: "UD6.215"
+    building: "UD6"
+    track: "Educational"
+    priority: 3
+  - eventId: 431669913
+    eventName: "All in RISC-V, RISC-V All in AI: Solving Real AI Compute Challenges with DeepComputing & Tenstorrent-"
+    status: "wishlist"
+    startTime: "2026-01-31T17:50:00.000"
+    endTime: "2026-01-31T18:20:00.000"
+    room: "UD2.120 (Chavanne)"
+    building: "UD2"
+    track: "AI Plumbers"
+    priority: 3
+  - eventId: 431895309
+    eventName: "Standardization and Open-source Implementation of Attested TLS for Confidential Computing-"
+    status: "wishlist"
+    startTime: "2026-02-01T12:05:00.000"
+    endTime: "2026-02-01T12:35:00.000"
+    room: "UD6.215"
+    building: "UD6"
+    track: "Confidential Computing"
+    priority: 3
+  - eventId: 452283386
+    eventName: "The Most Bizarre Software Bugs in History-"
+    status: "wishlist"
+    startTime: "2026-02-01T14:05:00.000"
+    endTime: "2026-02-01T14:35:00.000"
+    room: "H.2213"
+    building: "H"
+    track: "Testing and Continuous Delivery"
+    priority: 3
+  - eventId: 455578623
+    eventName: "Mail & Security - Lessons learned and interesting tools-"
+    status: "wishlist"
+    startTime: "2026-01-31T12:30:00.000"
+    endTime: "2026-01-31T13:00:00.000"
+    room: "K.4.201"
+    building: "K"
+    track: "Modern Email"
+    priority: 3
+  - eventId: 499046266
+    eventName: "Language support in Meilisearch-"
+    status: "wishlist"
+    startTime: "2026-02-01T13:15:00.000"
+    endTime: "2026-02-01T13:45:00.000"
+    room: "UB4.136"
+    building: "UB4"
+    track: "Search"
+    priority: 3
+  - eventId: 522131057
+    eventName: "Hedy - Textual programming made easy!-"
+    status: "wishlist"
+    startTime: "2026-02-01T16:35:00.000"
+    endTime: "2026-02-01T17:05:00.000"
+    room: "UD6.215"
+    building: "UD6"
+    track: "Educational"
+    priority: 3
+  - eventId: 566362892
+    eventName: "Reproducing a syzbot Bug in 5 Minutes — Now with virtme-ng!-"
+    status: "wishlist"
+    startTime: "2026-02-01T15:00:00.000"
+    endTime: "2026-02-01T15:30:00.000"
+    room: "UA2.114 (Baudoux)"
+    building: "UA2"
+    track: "Kernel"
+    priority: 3
+  - eventId: 592407523
+    eventName: "Bridging the gap between browser and backend media processing-"
+    status: "wishlist"
+    startTime: "2026-01-31T11:55:00.000"
+    endTime: "2026-01-31T12:25:00.000"
+    room: "K.4.601"
+    building: "K"
+    track: "Open Media devroom"
+    priority: 3
+  - eventId: 594990398
+    eventName: "DMLS vs DMLS: decentralizing/distributing Messaging Layer Security-"
+    status: "wishlist"
+    startTime: "2026-02-01T12:20:00.000"
+    endTime: "2026-02-01T12:50:00.000"
+    room: "AW1.126"
+    building: "AW1"
+    track: "Decentralised Communication"
+    priority: 3
+  - eventId: 599517331
+    eventName: "Autocrypt 2: Post-Quantum-Cryptography and Reliable Deletion (\"Forward-Secrecy\")-"
+    status: "wishlist"
+    startTime: "2026-01-31T13:00:00.000"
+    endTime: "2026-01-31T13:30:00.000"
+    room: "K.4.201"
+    building: "K"
+    track: "Modern Email"
+    priority: 3
+  - eventId: 599999541
+    eventName: "sbom-cve-check: Lightweight open-source CVE analysis tool for your embedded systems-"
+    status: "wishlist"
+    startTime: "2026-02-01T12:20:00.000"
+    endTime: "2026-02-01T12:50:00.000"
+    room: "UD2.120 (Chavanne)"
+    building: "UD2"
+    track: "Embedded, Mobile and Automotive"
+    priority: 3
+  - eventId: 616903711
+    eventName: "What's new in BlockNote? (The Block-Based, Notion-Style Editor)-"
+    status: "wishlist"
+    startTime: "2026-01-31T13:45:00.000"
+    endTime: "2026-01-31T14:15:00.000"
+    room: "K.3.401"
+    building: "K"
+    track: "Collaboration and content management"
+    priority: 3
+  - eventId: 617101319
+    eventName: "Reproducible Builds Meetup-"
+    status: "wishlist"
+    startTime: "2026-01-31T14:00:00.000"
+    endTime: "2026-01-31T14:30:00.000"
+    room: "K.4.401"
+    building: "K"
+    track: "BOF/Unconference"
+    priority: 3
+  - eventId: 631907451
+    eventName: "Finding backdoors with fuzzing-"
+    status: "wishlist"
+    startTime: "2026-01-31T15:00:00.000"
+    endTime: "2026-01-31T15:30:00.000"
+    room: "UB5.132"
+    building: "UB5"
+    track: "Security"
+    priority: 3
+  - eventId: 690668235
+    eventName: "Storage aspects consumed by OpenCloud-"
+    status: "wishlist"
+    startTime: "2026-01-31T10:30:00.000"
+    endTime: "2026-01-31T11:00:00.000"
+    room: "UB4.136"
+    building: "UB4"
+    track: "Software Defined Storage"
+    priority: 3
+  - eventId: 694323401
+    eventName: "Learn to Build Your Own Mobile App with MIT App Inventor-"
+    status: "wishlist"
+    startTime: "2026-01-31T10:30:00.000"
+    endTime: "2026-01-31T11:00:00.000"
+    room: "UD6.205"
+    building: "UD6"
+    track: "Junior"
+    priority: 3
+  - eventId: 698045054
+    eventName: "Dynamic Bot Blocking with Web-Server Access-Log Analytics-"
+    status: "wishlist"
+    startTime: "2026-01-31T14:30:00.000"
+    endTime: "2026-01-31T15:00:00.000"
+    room: "UB5.132"
+    building: "UB5"
+    track: "Security"
+    priority: 3
+  - eventId: 700354808
+    eventName: "All Your Keyboards Are Belong To Us!-"
+    status: "wishlist"
+    startTime: "2026-01-31T13:30:00.000"
+    endTime: "2026-01-31T14:00:00.000"
+    room: "UB5.132"
+    building: "UB5"
+    track: "Security"
+    priority: 3
+  - eventId: 703628495
+    eventName: "Continuous Performance Engineering HowTo-"
+    status: "wishlist"
+    startTime: "2026-02-01T13:50:00.000"
+    endTime: "2026-02-01T14:20:00.000"
+    room: "H.1301 (Cornil)"
+    building: "H"
+    track: "Software Performance"
+    priority: 3
+  - eventId: 721522423
+    eventName: "The Linux Phone App Ecosystem (2026)-"
+    status: "wishlist"
+    startTime: "2026-01-31T18:00:00.000"
+    endTime: "2026-01-31T18:30:00.000"
+    room: "UB4.132"
+    building: "UB4"
+    track: "FOSS on Mobile"
+    priority: 3
+  - eventId: 726652828
+    eventName: "qaul.net - Internet Independent Wireless Mesh Communication App-"
+    status: "wishlist"
+    startTime: "2026-02-01T16:05:00.000"
+    endTime: "2026-02-01T16:35:00.000"
+    room: "UD2.218A"
+    building: "UD2"
+    track: "Decentralized Internet and Privacy"
+    priority: 3
+  - eventId: 769239043
+    eventName: "iroh p2p connections-"
+    status: "wishlist"
+    startTime: "2026-02-01T14:10:00.000"
+    endTime: "2026-02-01T14:40:00.000"
+    room: "UD2.218A"
+    building: "UD2"
+    track: "Decentralized Internet and Privacy"
+    priority: 3
+  - eventId: 780940957
+    eventName: "The Invisible Payload: A Generic Zero-Copy Architecture-"
+    status: "wishlist"
+    startTime: "2026-01-31T17:30:00.000"
+    endTime: "2026-01-31T18:00:00.000"
+    room: "UB4.136"
+    building: "UB4"
+    track: "Software Defined Storage"
+    priority: 3
+  - eventId: 787639852
+    eventName: "WebNN and WebLLM on RISC-V: Closing the AI Acceleration Gap with RVV and Tenstorrent-"
+    status: "wishlist"
+    startTime: "2026-01-31T12:40:00.000"
+    endTime: "2026-01-31T13:10:00.000"
+    room: "UD2.120 (Chavanne)"
+    building: "UD2"
+    track: "AI Plumbers"
+    priority: 3
+  - eventId: 811802886
+    eventName: "Cloudillo — Beyond Self-Hosting: Building a New Generation of Collaborative Applications-"
+    status: "wishlist"
+    startTime: "2026-01-31T11:30:00.000"
+    endTime: "2026-01-31T12:00:00.000"
+    room: "K.3.401"
+    building: "K"
+    track: "Collaboration and content management"
+    priority: 3
+  - eventId: 812818517
+    eventName: "Half-time recap & precap for Decentralized Internet devroom-"
+    status: "wishlist"
+    startTime: "2026-02-01T12:40:00.000"
+    endTime: "2026-02-01T13:10:00.000"
+    room: "UD2.218A"
+    building: "UD2"
+    track: "Decentralized Internet and Privacy"
+    priority: 3
+  - eventId: 814959173
+    eventName: "Zero Trust in Action: Architecting Secure Systems Beyond Perimeters-"
+    status: "wishlist"
+    startTime: "2026-01-31T18:30:00.000"
+    endTime: "2026-01-31T19:00:00.000"
+    room: "UB5.132"
+    building: "UB5"
+    track: "Security"
+    priority: 3
+  - eventId: 819239707
+    eventName: "Demystifying the Mathematics of Erasure Coding-"
+    status: "wishlist"
+    startTime: "2026-01-31T12:50:00.000"
+    endTime: "2026-01-31T13:20:00.000"
+    room: "UB4.136"
+    building: "UB4"
+    track: "Software Defined Storage"
+    priority: 3
+  - eventId: 853645610
+    eventName: "What translating Thunderbird taught me-"
+    status: "wishlist"
+    startTime: "2026-02-01T14:50:00.000"
+    endTime: "2026-02-01T15:20:00.000"
+    room: "K.3.401"
+    building: "K"
+    track: "Translations"
+    priority: 3
+  - eventId: 854845602
+    eventName: "An Introduction to the OpenID Shared Signals Framework-"
+    status: "wishlist"
+    startTime: "2026-02-01T09:05:00.000"
+    endTime: "2026-02-01T09:35:00.000"
+    room: "H.2214"
+    building: "H"
+    track: "Identity and Access Management"
+    priority: 3
+  - eventId: 855589085
+    eventName: "Ariel OS: Embedded Rust operating system — Meetup-"
+    status: "wishlist"
+    startTime: "2026-01-31T11:00:00.000"
+    endTime: "2026-01-31T11:30:00.000"
+    room: "UA4.222"
+    building: "UA4"
+    track: "BOF/Unconference"
+    priority: 3
+  - eventId: 909332822
+    eventName: "Why build an 8-bit homebrew computer in 2026-"
+    status: "wishlist"
+    startTime: "2026-02-01T15:55:00.000"
+    endTime: "2026-02-01T16:25:00.000"
+    room: "H.1302 (Depage)"
+    building: "H"
+    track: "Retrocomputing"
+    priority: 3
+  - eventId: 933035933
+    eventName: "Multimodal support in llama.cpp - Achievements and Future Directions-"
+    status: "wishlist"
+    startTime: "2026-01-31T10:35:00.000"
+    endTime: "2026-01-31T11:05:00.000"
+    room: "UD2.120 (Chavanne)"
+    building: "UD2"
+    track: "AI Plumbers"
+    priority: 3
+  - eventId: 948226385
+    eventName: "Build Once, Trust Always: Single-Image Secure Boot with barebox-"
+    status: "wishlist"
+    startTime: "2026-02-01T11:00:00.000"
+    endTime: "2026-02-01T11:30:00.000"
+    room: "UD2.120 (Chavanne)"
+    building: "UD2"
+    track: "Embedded, Mobile and Automotive"
+    priority: 3
+  - eventId: 949634501
+    eventName: "Mobilizon - share events on the fediverse-"
+    status: "wishlist"
+    startTime: "2026-01-31T18:20:00.000"
+    endTime: "2026-01-31T18:50:00.000"
+    room: "H.2215 (Ferrer)"
+    building: "H"
+    track: "Social Web"
+    priority: 3
+  - eventId: 959736863
+    eventName: "Why Android Builds Are So Slow — And What We Can Do About It-"
+    status: "wishlist"
+    startTime: "2026-01-31T12:00:00.000"
+    endTime: "2026-01-31T12:30:00.000"
+    room: "UB4.132"
+    building: "UB4"
+    track: "FOSS on Mobile"
+    priority: 3
+  - eventId: 964485125
+    eventName: "Webmail, the new generation-"
+    status: "wishlist"
+    startTime: "2026-01-31T10:35:00.000"
+    endTime: "2026-01-31T11:05:00.000"
+    room: "K.4.201"
+    building: "K"
+    track: "Modern Email"
+    priority: 3
+  - eventId: 966346846
+    eventName: "Migrating Multi-Factor Authentication: FreeIPA WebUI's Journey from Dojo to React-"
+    status: "wishlist"
+    startTime: "2026-02-01T16:00:00.000"
+    endTime: "2026-02-01T16:30:00.000"
+    room: "H.2214"
+    building: "H"
+    track: "Identity and Access Management"
+    priority: 3
+  - eventId: 1030153163
+    eventName: "Designing for Local-First: UX Patterns for a Network-Optional World-"
+    status: "wishlist"
+    startTime: "2026-02-01T14:20:00.000"
+    endTime: "2026-02-01T14:50:00.000"
+    room: "K.3.201"
+    building: "K"
+    track: "Local-First, sync engines, CRDTs"
+    priority: 3
+  - eventId: 1039731949
+    eventName: "How to do a Podcast with Free Software?-"
+    status: "wishlist"
+    startTime: "2026-02-01T11:40:00.000"
+    endTime: "2026-02-01T12:10:00.000"
+    room: "UA2.220 (Guillissen)"
+    building: "UA2"
+    track: "Audio, Video & Graphics Creation"
+    priority: 3
+  - eventId: 1041957313
+    eventName: "MEP2, a Simple Mail Transfer Protocol (but not that one)-"
+    status: "wishlist"
+    startTime: "2026-02-01T14:05:00.000"
+    endTime: "2026-02-01T14:35:00.000"
+    room: "H.1302 (Depage)"
+    building: "H"
+    track: "Retrocomputing"
+    priority: 3
+  - eventId: 1052595382
+    eventName: "Observability for AI Workloads on HPC: Beyond GPU Utilization Metrics-"
+    status: "wishlist"
+    startTime: "2026-02-01T13:10:00.000"
+    endTime: "2026-02-01T13:40:00.000"
+    room: "H.1308 (Rolin)"
+    building: "H"
+    track: "HPC, Big Data & Data Science"
     priority: 3
