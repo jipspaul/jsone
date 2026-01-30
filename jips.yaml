@@ -1,0 +1,47 @@
+userName: "Jips"
+events:
+- eventId: 572984825
+eventName: "FOSS in times of war, scarcity and (adversarial) AI-"
+status: "planned"
+startTime: "2026-01-31T10:00:00.000"
+endTime: "2026-01-31T10:30:00.000"
+room: "Janson"
+building: "Janson"
+track: "Main Track"
+priority: 3
+- eventId: 77574753
+eventName: "VM Integration in systemd-"
+status: "wishlist"
+startTime: "2026-01-31T10:30:00.000"
+endTime: "2026-01-31T11:00:00.000"
+room: "H.2213"
+building: "H"
+track: "Virtualization and Cloud Infrastructure"
+priority: 3
+- eventId: 344920949
+eventName: "DuckDB in the Cloud: A Simple, Powerful SQL Engine for Your Lakehouse-"
+status: "wishlist"
+startTime: "2026-01-31T13:15:00.000"
+endTime: "2026-01-31T13:45:00.000"
+room: "UB2.252A (Lameere)"
+building: "UB2"
+track: "Databases"
+priority: 3
+- eventId: 593298359
+eventName: "Fedi legacy-"
+status: "wishlist"
+startTime: "2026-01-31T18:10:00.000"
+endTime: "2026-01-31T18:40:00.000"
+room: "H.2215 (Ferrer)"
+building: "H"
+track: "Social Web"
+priority: 3
+- eventId: 816809563
+eventName: "IzzyOnDroid Download Statistics-"
+status: "wishlist"
+startTime: "2026-01-31T14:00:00.000"
+endTime: "2026-01-31T14:30:00.000"
+room: "UB4.132"
+building: "UB4"
+track: "FOSS on Mobile"
+priority: 3
